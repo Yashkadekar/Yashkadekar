@@ -1,67 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yash%20Kadekar&fontSize=90" />
-</p>
-
 <div align="center">
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
-  
-  ## 💫 About Me
-  🔭 I’m currently working on web system development.
-  <br>
-  👯 I’m a B.Tech Student in Cyber Security.
-  <br>
-  🌱 I’m currently learning Java & DSA.
-  <br>
-  💬 Ask me about Web Development.
+  <img src="https://github.com/user-attachments/assets/eff5a564-2b42-47d7-9a34-140db65c3862" alt="Banner" />
+</div>   
+
+<!-- Intro Heading -->
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/yash-kadekar-62513936a" target="_blank">Yash Kadekar</a></h1>
+<!-- Typing Animation -->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=ff1d58&center=true&vCenter=true&width=900&lines=AI+%7C+ML+Enthusiast+%26+Web+Developer;Open+Source+Contributor+%7C+Project+Builder;Passionate+Learner+%26+Tech+Explorer" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌐 Socials
-<p align="left">
-  <a href="https://www.instagram.com/yash_kadekar_96k/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/yash-kadekar-62513936a" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/Yash__Kadekar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
+<div align="center"> <h1>  🤝 Connect With Me </h1> </div>
+<div align="center">
+  <a href="https://x.com/Yash__Kadekar" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
+  <a href="https://www.linkedin.com/in/yash-kadekar-62513936a" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
+  <a href="https://www.instagram.com/yash_kadekar_96k/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
+</div>
+
+<p align="center">
+  🚀 Engineering student from India 🇮🇳 passionate about building cool projects.<br>
+  🧠 Exploring AI/ML, Web Development, and beyond.<br>
+  🎯 Focused on open-source, innovation, and impactful learning.<br>
+  🏋️ Balancing college work & side projects like a true multitasker 😄
 </p>
 
 ---
 
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Web%20Testing-4E9A06?style=flat&logo=selenium&logoColor=white" alt="Web Testing"/>
-  <img src="https://img.shields.io/badge/Game%20Testing-7289DA?style=flat&logo=discord&logoColor=white" alt="Game Testing"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=hackerone&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=flat&logo=html5&logoColor=white" alt="Web Development"/>
-  <img src="https://img.shields.io/badge/Front--End%20Design-F05032?style=flat&logo=figma&logoColor=white" alt="Front-End Design"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Backend%20Development-000000?style=flat&logo=serverless&logoColor=white" alt="Backend Development"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+## 🚀 Skills & Technologies
+
+- 🐍 Python (AI/ML, Web, Basics)
+- 💻 C++ (Logic & DSA)
+- 🌐 HTML, CSS, JavaScript (Web Dev)
+- 🛠️ Git & GitHub (version control)
+- 📂 Linux/Terminal
+- 🧠 Problem Solving & Logic Building
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashkadekar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashKadekar&show_icons=true&theme=radical" alt="Yash Kadekar's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKadekar&theme=radical&hide_border=false" alt="Yash Kadekar's GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKadekar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Yash Kadekar's Top Languages"/>
-</p>
+## 📌 Featured Projects
+
+- [Fitness Center Website](https://github.com/Yashkadekar/fitness-center-website) – Modern, responsive site for fitness centers.
+- [My Portfolio](https://github.com/Yashkadekar/My-Portfolio) – Personal portfolio site.
+- [Health Insurance AI](https://github.com/Yashkadekar/Health-Insurance-AI) – AI for health insurance analysis.
+- [Construction Site Portfolio](https://github.com/Yashkadekar/Construction-Site-Portfolio-) – Construction site project portfolio.
+- [Air Cursor](https://github.com/Yashkadekar/Air-Cursur) – Air gesture mouse control.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashKadekar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Yash Kadekar's GitHub Trophies"/>
-</p>
+## 📌 Currently Working On
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
-</p>
+- ✅ Learning advanced DSA and AI/ML techniques
+- ✅ Building web projects (HTML/CSS/JS)
+- ✅ Contributing to open source
+- ✅ Exploring new tech stacks and frameworks
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+<p align="center">✨ Thank you for visiting my profile! ✨</p>
