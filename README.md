@@ -20,7 +20,7 @@
 
 <p align="center">
   🚀 Engineering student from India 🇮🇳 passionate about building cool projects.<br>
-  🧠 Exploring AI/ML, Web Development, and beyond.<br>
+  🧠 Exploring Cyber Security, Web Development, and beyond.<br>
   🎯 Focused on open-source, innovation, and impactful learning.<br>
   🏋️ Balancing college work & side projects like a true multitasker 😄
 </p>
@@ -58,7 +58,7 @@
 
 ## 📌 Currently Working On
 
-- ✅ Learning advanced DSA and AI/ML techniques
+- ✅ Learning advanced DSA and Cyber techniques
 - ✅ Building web projects (HTML/CSS/JS)
 - ✅ Contributing to open source
 - ✅ Exploring new tech stacks and frameworks
